@@ -1,0 +1,42 @@
+<html>
+<head>
+</head>
+
+<body>
+<body background= "image/18a96f4d5156a891fb6ca497b79cbdf5.jpg">
+
+<font size="20" face="impact" color="black"><marquee behavior="alternate">AISYAH GALLERY (MEMORY)</marquee></font>
+<br>
+<br>
+  
+  <a href="index.html">Home</a>
+
+  <a href="About Myself.html">About Myself</a>
+
+  <a href="Experience.html">My Experience</a>
+
+  <a href="Education.html">My Education</a>
+
+  <a href="Family.html">My Family</a>
+
+  <a href="Gallery.html">My Gallery</a>
+
+  <a href="Pets.html">My Pets</a>
+
+  <a href="Business.html">My Business</a>
+<br>
+<br>
+
+<face="impact"><marquee behavior="alternate"><img src="image/My Family (1).png"allign="right"width="36%"height="50%"align="center"><img src="image/Zarif.png"allign="right"width="25%"height="50%"align="center">
+
+<img src="image/Me.png"allign="right"width="25%"height="50%"align="center">
+
+<img src="image/Ikmal.png"allign="right"width="25%"height="50%"align="center">
+
+<img src="image/along.png"allign="right"width="25%"height="50%"align="center"></marquee>
+
+<face="impact"><marquee behavior="alternate"><img src="image/putam 2.jpg"allign="right"width="20%"height="50%"align="center">
+
+<img src="image/Kakashi 2.jpg"allign="right"width="25%"height="50%"align="center">
+
+<img src="image/Levi 4.jpg"allign="right"width="20%"height="50%"align="center"></marquee>

@@ -1,0 +1,55 @@
+<html>
+<head>
+</head>
+
+
+<body>
+<body background="image/18a96f4d5156a891fb6ca497b79cbdf5.jpg">
+<font size="20" face="impact" color="black"><marquee behavior="alternate">WELCOME TO AISYAH WEBSITE | Have A Nice Day While Enjoying My Blog</marquee></font>
+
+<div class="header">
+  <h1>Aisyah Blog:)</h1>
+  <h4>Whatsup Guys!</h4>
+
+  <a href="index.html">Home</a>
+
+  <a href="About Myself.html">About Myself</a>
+
+  <a href="Experience.html">My Experience</a>
+
+  <a href="Education.html">My Education</a>
+
+  <a href="Family.html">My Family</a>
+
+  <a href="Gallery.html">My Gallery</a>
+
+  <a href="Pets.html">My Pets</a>
+
+  <a href="Business.html">My Business</a>
+
+
+</div>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+/* Style the body */
+body {
+  font-family: Trebuchet MS;
+  margin: 0;
+}
+
+/* Header/Logo Title */
+.header {
+  padding: 10px;
+  text-align: center;
+  background: lightyellow;
+  color: darkgreen;
+  font-size: 30px;
+}
+
+<embed src="music/joy hello.mp3" width="200" height="100">
+
+</body>
+
+</html> 
+

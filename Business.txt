@@ -1,0 +1,67 @@
+<html>
+<head>
+</head>
+
+<body>
+<body background="image/18a96f4d5156a891fb6ca497b79cbdf5.jpg">
+  <a href="index.html">Home</a>
+
+  <a href="About Myself.html">About Myself</a>
+
+  <a href="Experience.html">My Experience</a>
+
+  <a href="Education.html">My Education</a>
+
+  <a href="Family.html">My Family</a>
+
+  <a href="Gallery.html">My Gallery</a>
+
+  <a href="Pets.html">My Pets</a>
+
+  <a href="Business.html">My Business</a>
+<br>
+<br>
+
+<font size="20" face="impact" color="black"><marquee behavior="alternate">Plese Suppory My Small Business</marquee></font>
+<br>
+<br>
+<br>
+<big>I sell various kind of cakes</big>
+<br>
+<img src="image/Pastel Elegant Moodboard.png" width="30%"height="60%"></img>
+<br>
+<br>
+<br>
+<br>
+<big>Korean Bento cake</big>
+<br>
+<img src="image/White Pink and Blue Pastel Shoes Photo Grid Promotional Poster (1).png" width="30%"height="85%"></img>
+<br>
+<br>
+<img src="image/Korean Bento Cake Price start at RM10 Size 4'inch Design boleh request.png" width="30%"height="85%"></img>
+<br>
+<br>
+<br>
+<br>
+<big>Korean Design Cake</big>
+<br>
+<img src="image/Grayscale Grid Birthday Poster.png" width="25%"height="75%"></img>
+<br>
+<br>
+<br>
+<br>
+<big>Rainbow Crepe Cake</big>
+<br>
+<img src="image/Rainbow.png" width="30%"height="60%"></img>
+<br>
+<br>
+<br>
+<br>
+<big>How To Order?</big>
+<br>
+<img src="image/Order Process In. House Dessert (1).png" width="40%"height="200%"></img>
+
+
+</body>
+
+</html>

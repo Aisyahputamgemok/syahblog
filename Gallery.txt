@@ -27,7 +27,7 @@
 <br>
 <br>
 
-<face="impact"><marquee behavior="alternate"><img src="image/My Family (1).png"allign="right"width="36%"height="50%"align="center"><img src="image/Zarif.png"allign="right"width="25%"height="50%"align="center">
+<face="impact"><marquee behavior="alternate"><img src="image/My FAMILY (1).png"allign="right"width="36%"height="50%"align="center"><img src="image/Zarif.png"allign="right"width="25%"height="50%"align="center">
 
 <img src="image/Me.png"allign="right"width="25%"height="50%"align="center">
 
